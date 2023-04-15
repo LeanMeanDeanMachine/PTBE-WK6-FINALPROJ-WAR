@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b117c13-9132-4f16-9a57-2eb81daaaef3" name="Changes" comment="changed enums to singular">
+    <list default="true" id="6b117c13-9132-4f16-9a57-2eb81daaaef3" name="Changes" comment="Added descriptive comments explaining the code">
+      <change afterPath="$PROJECT_DIR$/Java-Week6_Final-ProjectPDF.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Card.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Card.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Deck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Deck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Player.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Suit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Suit.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +56,7 @@
       <updated>1680969610894</updated>
       <workItem from="1680969612101" duration="20309000" />
       <workItem from="1681048155349" duration="1272000" />
-      <workItem from="1681585165762" duration="2090000" />
+      <workItem from="1681585165762" duration="3978000" />
     </task>
     <task id="LOCAL-00001" summary="Created Java Enum class &quot;Suit&quot; declaring suits of cards">
       <created>1680970081287</created>
@@ -90,7 +86,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681000861831</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Added descriptive comments explaining the code">
+      <created>1681587306583</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1681587306583</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -101,7 +104,8 @@
     <MESSAGE value="Getters and Setters for suits and rank" />
     <MESSAGE value="Made it pretty, completed the code and refactored some classes according to typical conventions.&#10;&#10;Code is running tens of millions of rounds about 1:50 runs, far outside the presumed statistical probability as given at https://www.wimpyprogrammer.com/the-statistics-of-war-the-card-game" />
     <MESSAGE value="changed enums to singular" />
-    <option name="LAST_COMMIT_MESSAGE" value="changed enums to singular" />
+    <MESSAGE value="Added descriptive comments explaining the code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added descriptive comments explaining the code" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
